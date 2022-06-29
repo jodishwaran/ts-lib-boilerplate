@@ -1,0 +1,6 @@
+- npx
+- volta
+- yarn init -y
+- yarn tsc --init
+- scripts in package.json
+- tsconfig
